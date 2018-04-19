@@ -1,0 +1,40 @@
+body {
+	max-width: 1000px;
+	margin: auto;
+	font-family: 'Dancing Script', cursive;
+}
+
+h1 {
+	font-style: bold;
+}
+
+h2 {
+			color: blue;
+		}
+
+#landing {
+	text-align: center;
+	padding-top: 100px;
+	margin-bottom: 235px;
+	font-size: 150%;
+}
+
+section {
+	margin-top: 50px;
+	padding-left: 50px;
+	margin-bottom: 100px;
+}
+
+#blurb > a {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.lead {
+	font-size: 120%;
+	font-style: bold;
+}
+
+img {
+	border-radius: 50%;
+}
